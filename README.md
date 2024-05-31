@@ -1,5 +1,5 @@
 # Filament Management Finance App
 
-A application to illustrate how Management Finance Admin works.
+Filament is a collection of full-stack components for accelerated Laravel development. They are beautifully designed, intuitive to use, and fully extensible - the perfect starting point for your next Laravel app.
 
-![Management Finance](https://github.com/rizki-agung/laravel-management-finance/tree/main/public/finance-app.PNG)
+<p align="center"><img src="/public/finance-app.png" alt="Management Finance"></p>

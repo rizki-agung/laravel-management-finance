@@ -4,4 +4,4 @@ Filament is a collection of full-stack components for accelerated Laravel develo
 
 <p align="center"><img src="/public/finance-app.PNG" alt="Dashboard"></p>
 <p align="center"><img src="/public/category-finance.PNG" alt="Category"></p>
-<p align="center"><img src="/public/transaction.PNG" alt="Dashboard"></p>
+<p align="center"><img src="/public/transaction-finance.PNG" alt="Transaction"></p>
